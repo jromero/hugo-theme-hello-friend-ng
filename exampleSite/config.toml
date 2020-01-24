@@ -63,6 +63,8 @@ disableHugoGeneratorInject = false
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
+  # Set disableAttribution to true in order to hide attributions.
+  disableAttribution = false
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
